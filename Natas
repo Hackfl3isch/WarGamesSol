@@ -1,0 +1,7 @@
+Natas 0: use the web dev Tools to find the Passwowrd: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+Natas 1: use web dev Tools fo find the Password: TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI
+Natas 2: view page Infos find files/pixel.png http://natas2.natas.labs.overthewire.org/files/ 
+there is another file named users: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+Natas 3: hint Google won't find this page. Refers to robots.txt file. alter weburl to http://natas3.natas.labs.overthewire.org/robots.txt find the url  http://natas3.natas.labs.overthewire.org/s3cr3t/ to get the Password: QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+Natas 4: Change the http Header refered to some other page according how it stands on the page find Password: 0n35PkggAPm2zbEpOU802c0x0Msn1ToK 
+Natas 5: Alter a Cookie flag to 1 Didn't made it work…
